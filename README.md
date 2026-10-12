@@ -1,5 +1,7 @@
 🧠 LLM Jargon Explorer
 
+Live - Demo -Link : https://llm-jargon-introduction.streamlit.app/
+
 A beginner-friendly Streamlit learning application that explains important Large Language Model (LLM) concepts one term at a time.
 
 The project is designed as an interactive revision guide for learners who are getting started with Generative AI, LLMs, RAG, fine-tuning, embeddings, and modern LLM concepts.
